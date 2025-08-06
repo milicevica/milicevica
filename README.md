@@ -5,6 +5,6 @@ I'm a software engineer who is passionate about building web applications in the
 
 ## Find me around the web 🌍
 
-- <a href="https://milicevic-website.vercel.app/">milicevic.dev</a>
-- <a href="https://x.com/milicev1ca">Twitter</a>
-- <a href="https://www.linkedin.com/in/milicevica/">Linkedin</a>
+- <a href="https://milicevic-website.vercel.app/" target="_blank">milicevic.dev</a>
+- <a href="https://x.com/milicev1ca" target="_blank">Twitter</a>
+- <a href="https://www.linkedin.com/in/milicevica/" target="_blank">Linkedin</a>
